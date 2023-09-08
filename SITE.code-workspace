@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../SITE"
+		},
+		{
+			"path": "../ATIVIDADE PRÁTICA"
+		},
+		{
+			"path": "../exemplo1"
+		},
+		{
+			"path": "../projeto carrinho de compra"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto carrinho de compra"
+	}
+}
